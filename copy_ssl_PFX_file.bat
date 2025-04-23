@@ -1,0 +1,1 @@
+xcopy "C:\ProgramData\win-acme\acme-v02.api.letsencrypt.org\Certificates\*.pfx" certificate.pfx /Y

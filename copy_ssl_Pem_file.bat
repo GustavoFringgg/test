@@ -1,0 +1,2 @@
+copy C:\Users\mark-wang\AppData\Roaming\letsencrypt-win-simple\httpsacme-v01.api.letsencrypt.org\*-key.pem d: /y
+copy C:\Users\mark-wang\AppData\Roaming\letsencrypt-win-simple\httpsacme-v01.api.letsencrypt.org\*-crt.pem d: /y
